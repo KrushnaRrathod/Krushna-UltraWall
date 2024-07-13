@@ -13,7 +13,7 @@ const Hero = () => {
 
 const Title = () => {
   return(
-    <div className='max-w-[75%] m-auto pt-14 pb-6'>
+    <div className='max-w-[90%] m-auto pt-14 pb-6 lg:max-w-[75%]'>
       <h1 className='text-2xl'>Wallpaper Packs</h1>
     </div>
   )
