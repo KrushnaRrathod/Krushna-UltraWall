@@ -9,7 +9,7 @@ const Footer = () => {
       <div className='pt-16'>
         <p className='border-t-2 border-black'></p>
         <div className='max-w-[75%] m-auto my-5'>
-          <span>Created by</span> <a href="https://github.com/krushnarrathod" className='font-semibold'>@KrushnaRrahtod</a>
+          <span>Created by</span> <a href="https://github.com/krushnarrathod" className='font-semibold'>@KrushnaRrathod</a>
         </div>
       </div>
     )
